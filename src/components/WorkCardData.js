@@ -11,13 +11,13 @@ const ProjectCardData = [
         view : "https://www.youtube.com/watch?v=0h2b4ftbZcU"
     },
     {
-        imgsrc : pro2,
+        imgsrc : pro3,
         title : "Netflix2.0 Website Design",
         text : "Just created a Netflix2.0 website having similar features as Netflix.",
         view : "https://www.youtube.com/watch?v=0h2b4ftbZcU"
     },
     {
-        imgsrc : pro3,
+        imgsrc : pro2,
         title : "AgentAssist Website Design",
         text : "This will enable the agents that are using the chats at SA to use the chatGpt tools and use them for various purposes as : Data summarisation, replies, etc..",
         view : "https://www.youtube.com/watch?v=0h2b4ftbZcU"
